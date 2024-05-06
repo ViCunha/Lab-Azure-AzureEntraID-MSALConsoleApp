@@ -1,0 +1,1 @@
+# Lab-Azure-AzureEntraID-MSALConsoleApp
