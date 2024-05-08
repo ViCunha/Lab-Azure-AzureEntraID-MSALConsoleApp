@@ -6,8 +6,8 @@ namespace az204_auth
 {
     class Program
     {
-        private const string _clientId = "1bf98bd7-6869-4801-871e-9ace7a159b53";
-        private const string _tenantId = "f46cdef7-f08a-4654-aabf-f8f77ca67d7b";
+        private const string _clientId = "APPLICATION_CLIENT_ID";
+        private const string _tenantId = "DIRECTORY_TENANT_ID";
 
         public static async Task Main(string[] args)
         {
